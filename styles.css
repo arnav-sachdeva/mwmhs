@@ -1,7 +1,7 @@
 /* *****Home Page Start***** */
 /* NAVBAR AND BOARD */
 .navbar-and-board{
-  background-image: url('building-small-size.jpg');
+  background-image: url('./building-small-size.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
