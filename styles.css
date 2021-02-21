@@ -1,7 +1,7 @@
 /* *****Home Page Start***** */
 /* NAVBAR AND BOARD */
 .navbar-and-board{
-  background-image: url('images/building-small-size.jpg');
+  background-image: url('building-small-size.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
@@ -148,7 +148,7 @@ height: 6rem;
       border-color: #EA353B;
   }
   .navbar-and-board{
-    background-image: url('images/mobile-bg.jpg');
+    background-image: url('mobile-bg.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
