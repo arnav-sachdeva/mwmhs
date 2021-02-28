@@ -426,7 +426,7 @@ text-align: center;
 
 
 /* About us */
-@media(min-width:320px) and (max-width:992px){
+@media(min-width:280px) and (max-width:992px){
   .individual-page-headings{
     font-size: 3.7rem;
   }
@@ -489,9 +489,6 @@ text-align: center;
     width: 95%;
     margin: 0;
     margin-top: 0.5rem;
-  }
-  .individual-page-text-div{
-    text-align: center;
   }
 }
 
